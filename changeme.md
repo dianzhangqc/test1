@@ -4,3 +4,4 @@ chang
 status
 reset head
 branch
+rm
