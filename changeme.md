@@ -5,3 +5,4 @@ status
 reset head
 branch
 rm
+modify by b2
