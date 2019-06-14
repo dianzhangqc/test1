@@ -6,3 +6,4 @@ reset head
 branch
 rm
 modify by b2
+stash by b7
